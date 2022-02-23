@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse on the woollen manufactury of Ireland and the consequences of prohibiting its exportation</title>
+            <author>Hovell, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44612</idno>
+            <idno type="STC">Wing H2950</idno>
+            <idno type="STC">ESTC R24081</idno>
+            <idno type="EEBO-CITATION">07949238</idno>
+            <idno type="OCLC">ocm 07949238</idno>
+            <idno type="VID">40653</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44612)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40653)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1208:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse on the woollen manufactury of Ireland and the consequences of prohibiting its exportation</title>
+                  <author>Hovell, John.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by J.B. and S.P. and are to be sold by Jacob Milner,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cashel Cathedral, Ireland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  Ireland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40653:1"/>
+            <pb facs="tcp:40653:1" rendition="simple:additions"/>
+            <p>A DISCOURSE ON THE <hi>Woollen Manufactury</hi> OF IRELAND AND THE CONSEQUENCES OF Prohibiting its EXPORTATION.</p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN:</hi> Re-printed by <hi>J. B.</hi> and <hi>S. P.</hi> at the Back of <hi>Dick</hi>'s Coffee-Houſe in <hi>Skinner-Row:</hi> And are to be Sold by <hi>Jacob Milner,</hi> Bookſeller in <hi>Eſſex-ſtreet.</hi> 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:40653:2"/>
+            <pb n="3" facs="tcp:40653:2"/>
+            <head>A DISCOURSE OF THE <hi>Woollen Manufactury in IRELAND,</hi> &amp;c.</head>
+            <p>DURING the Seſſion of Parliament in <hi>England,</hi> the Winter 96, the Project for ſuppreſſing the Exportation of all Woollen Ma<g ref="char:EOLhyphen"/>nufactures from <hi>Ireland,</hi> advanced ſo far, that (as I remember) there was ſome Debate thereon in the Houſe of <hi>Commons.</hi> Now we are adviſed, that the ſame Deſign is on foot again.</p>
+            <p>Wherefore I think in my Duty to God, my King and my Country, (compre<g ref="char:EOLhyphen"/>hending therein both <hi>England</hi> and <hi>Ireland</hi>) to ſhew (as far as my little Abilities can) the People of <hi>England,</hi> the Mighty Wound that thereby wou'd be given, ſhou'd any ſuch Prohibitory Act paſs, to the <hi>Proteſtant Religion</hi> in both Iſlands; the great loſs of Wealth, (Wealth I ſay, the chief Object of their aim therein) particularly to <hi>England:</hi> And laſtly, that <hi>England</hi>'s Peace, Safety, and good Government wou'd thereby be extremely expoſed to new Troubles, both Fo<g ref="char:EOLhyphen"/>reign and Inteſtine: That on the contrary, the cheriſhing the <hi>Proteſtants</hi> of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> in their Woollen Manufactures, (the only thing that can well ſupport their Numbers here) will bring more Gain to <hi>England,</hi> than the Prohibition propos'd.</p>
+            <p>I am not ſo conceited as to think that the Truth of theſe Propoſitions are not clear and apparent to very many of both Kingdoms without my help; but in Common Danger the help and skill of every one is to be admitted.</p>
+            <div n="1" type="proposition">
+               <head>Propoſition I. That the Reformed Religion is much propagated in <hi>Ireland,</hi> by the Woollen Manufactures there.</head>
+               <p>Tho the Doctrines of our Lord and Saviour <hi>Jeſus Chriſt,</hi> are the moſt ſim<g ref="char:EOLhyphen"/>ple, intelligible and eaſie to humane Nature of any Religion in the World; and his Precepts and Examples guide us in the moſt Delightful, Happy and Wiſeſt Ways of Life that Mortality is capable of; yet both Doctrine and Pre<g ref="char:EOLhyphen"/>cepts are alas! but too little underſtood, and leſs practis'd by the Generality of our People; who tho' excellently inſtructed in both by our Miniſters, have not ſo delightful and clear a knowledge therein, as to be able to give manifeſt Reaſon of the Hope that is in them, yet generally are ſatisfied of the Truth there<g ref="char:EOLhyphen"/>of; like Men who learn another Language than their own, ſoon underſtand
+<pb n="4" facs="tcp:40653:3"/>more thereof than they can ſpeak themſelves. But tho very many of them can't in any tolerable Order, lay down their own Principles, yet ask 'em, What are the Faults they find in the <hi>Romiſh</hi> Perſwaſion? They'll paſſionately reply; 'tis a Falſe, Baſe, Cruel Religion. What <hi>Popery!</hi> to burn and hang People, Inquiſition and Dragoon 'em, if they won't do as they would have 'em? and if they do, then keep 'em Slaves and Beggars; whilſt the <hi>Abby Lub<g ref="char:EOLhyphen"/>bers, Friars</hi> and <hi>Prieſts,</hi> devour their Labours living, and when they dye, make their Poſterity pay Money for the Redemption of their Souls. No, rather than be of that Religion they'll be of none. Thus, tho the Reformation was firſt promoted by the great Learning, Wiſdom, and Holineſs of Life of theſe whom God of his great Mercy and Grace ſtrengthned to undertake a Work ſo difficult and dangerous, the Truth whereof many ſealed with their Blood; yet now it is continued by the generality of its Profeſſors, not only for its Truths ſake, which they take for granted; but far more ſenſibly, for its being a Fortreſs, or Bulwark againſt all <hi>Arbitrary Power</hi> or <hi>Violence</hi> over their Lives, Liberties and Goods.</p>
+               <p>
+                  <hi>Popery</hi> they dread as a Monſter that would evour 'em, and all that is theirs; and therefore they had rather die in the Conteſt, than be eaten up alive.</p>
+               <p>Of all the Occupations and Trades by which our People get their Living, there are none ſo great Enemies to <hi>Popery</hi> and <hi>Papiſts,</hi> as generally our Marri<g ref="char:EOLhyphen"/>ners and Clothiers; and therefore very rarely admit any <hi>Papiſt</hi> Seaman (if he appear to be ſuch) either to Sail, or Work with them. Several <hi>Papiſts</hi> in<g ref="char:EOLhyphen"/>deed are Fiſhermen and Boatmen; but if they uſe the Sea for any conſiderable time, they ſo long diſguiſe their Faith, that they loſe or change it at laſt. So that tho the <hi>Proteſtants</hi> of <hi>Ireland</hi> have had a long time a large Commerce by Sea, yet are there very few <hi>Papiſts,</hi> if compared with the others. I think I can only except the County and Town of <hi>Wexford,</hi> where there lately were many <hi>Papiſt</hi> Seamen; but the Inhabitants there are of an Old <hi>Engliſh</hi> Stock, and ſo much more addicted to a Seafaring-Trade than the <hi>Iriſh;</hi> which their great Herring-Fiſhing did much encourage and promote. Beſides there never was a ſufficient Body of <hi>Proteſtant Merchants,</hi> or <hi>Marriners,</hi> to Diſcourage or Con<g ref="char:EOLhyphen"/>vert them. However 'tis to be obſerved, that in the late War with the <hi>French</hi> King, our Coaſts were more Infeſted, and conſequently more injury done us by thoſe <hi>Wexford</hi> Deſerters in <hi>French</hi> Privateers, than by all the reſt put together; for they knowing all the Coaſt, Rocks, Shoals, Harbours, and Rivers, attempted what no Stranger could, or durſt attempt. And this In<g ref="char:EOLhyphen"/>jury had been far greater, had not our <hi>Proteſtant Merchants</hi> and <hi>Seamen</hi> by their Averſion for 'em, prevented their Increaſe in all other Parts of <hi>Ireland.</hi>
+               </p>
+               <p>As our <hi>Seamen,</hi> ſo our <hi>Clothiers</hi> have an invincible Prejudice againſt permit<g ref="char:EOLhyphen"/>ting any <hi>Papiſts</hi> to be inſtructed in their <hi>Art and Myſtery,</hi> as they term it. Theſe People are divided into ſeveral parts that compoſe the whole of that Trade, <hi>viz.</hi> The <hi>Clothier</hi> or Imployer of the reſt, the <hi>Comber,</hi> the <hi>Spinner,</hi> the <hi>Weaver,</hi> the <hi>Miller</hi> or <hi>Tucker,</hi> the <hi>Dyar,</hi> the <hi>Racker, Preſſers,</hi> &amp;c. in all which
+<pb n="5" facs="tcp:40653:3"/>parts they admit no <hi>Papiſt</hi> any ſhare,<note place="margin">The thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs Combers <hi>Munſter,</hi> ſpecially <hi>Cork,</hi> much <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> cautious Diſcover their and <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in <hi>
+                        <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ſter</hi> are.</note> except in the Spinning done by the Wo<g ref="char:EOLhyphen"/>men, and a ſmall part of the Weaving: But ſhou'd any <hi>Papiſt</hi> pretend, as a <hi>Maſter Clothier,</hi> to ſet up the Trade in any City or Corporate-Town, the <hi>Pro<g ref="char:EOLhyphen"/>teſtants</hi> of that Trade wou'd ſoon humble his Pride and Arrogance, and no more ſuffer him, than <hi>Rome</hi> would ſuffer the Bible to appear in <hi>Spain</hi> and <hi>Ita<g ref="char:EOLhyphen"/>ly</hi> in their Vulgar Tongues. Inſtead of ſuffering him to follow their Trade, as they call it, they would drive him from the place, eſpecially ſince by the Laws, no <hi>Papiſt</hi> is capable of his Freedom in any Corporate-Town in <hi>Ireland;</hi> and ſo conſequently incapable to be Maſter in any Trade there. The <hi>Combers</hi> are moſtly <hi>Engliſh</hi> Men, who are ſo ſtrictly Confederated againſt ſuffering any <hi>Papiſt</hi> to intermeddle with their Trade; that ſhou'd a Maſter imploy a <hi>Papiſt-Comber,</hi> the reſt are all diſſolved from his Service; not one will or dare ſerve him; but inſtead thereof, if they can conveniently apprehend his Minion, they'll break his Thumbs, ſo that he ſhall never Comb Wooll again, but leave him to lament that ever he did. Some very few <hi>Papiſts</hi> are allowed by them to be <hi>Tuckers,</hi> but rather to ſerve the Country in ordinary <hi>Milling Frizes, Stockins,</hi> and the like, than in any conſiderable part of their Trade. I never heard that any <hi>Papiſt</hi> here attempted the Dying or Preſſing part: So that in the whole <hi>Cloathing Trade,</hi> none of the <hi>Papiſt</hi> Faction, except the Females, and a very few of the Men are admitted. The <hi>Iriſh Friars</hi> and <hi>Prieſts</hi> were in the Reign of the late King <hi>James,</hi> ſo ſenſible hereof, that on all Holidays they ſtrictly prohibited their Spinners and Weavers working; and would ſome<g ref="char:EOLhyphen"/>times enter their Cabbins, and (if they found 'em at it) break their Tools; ſaying, <hi>That Work was good for nothing, but to Encreaſe and Maintain the Here<g ref="char:EOLhyphen"/>ticks.</hi> And ſo fearful were the Chief of the <hi>Iriſh,</hi> that the <hi>Combers</hi> would take Arms and Riſe; that they were extremely glad, when they ſaw 'em, for want of other Work, go off in great Numbers for <hi>England.</hi> But beſides the Hatred our <hi>Clothiers</hi> have for <hi>Papiſts</hi> on the general account, they have very particular, and (to themſelves) <hi>good Reaſons for it.</hi>
+               </p>
+               <p>Firſt, That they can't depend on their <hi>Honeſty:</hi> For ſuch <hi>Proteſtant</hi> Maſters, as for a preſent Reward, or an extraordinary long time of Service, have ta<g ref="char:EOLhyphen"/>ken an Apprentice of <hi>Popiſh</hi> Education, (tho his Religion was to lie dormant with his Friends, till he had learnt his Trade) found to their Coſt, that they cou'd not be kept from ſtealing the Wooll, worſted, Yarn, and what elſe they could purloin. Now tho ſtealing is eſteemed a Peccadillo among <hi>Papiſts, Iriſh</hi> eſpecially; yet in the <hi>Cloathing Trade</hi> it's an Unpardonable Fault. The Offender is certainly ruin'd there; the whole Fraternity abhor him; and he muſt ſeek new ground, where a thouſand to one but Fame will overtake him; and tho' he may wander like <hi>Cain,</hi> yet his Guilt and Puniſhment will be in purſuit. But,</p>
+               <p>Secondly, If this Apprentice ſerve his Time and learn his Trade, the next thing he will do, is to lower the Price of his Work, and accordingly do it ſo much the more ſlightly, worſe and deceitfully. And what thoſe want to make
+<pb n="6" facs="tcp:40653:4"/>up his Gain, he will pinch out of his Back and Belly. For as the <hi>Iriſh Papiſts</hi> have no other way to out-doe the <hi>Engliſh Proteſtants,</hi> but doing Cheaper, ſo they'll not fail to do that, knowing how to live extremely worſe, both in their Houſes, Apparel, and Fare. If therefore the Matter come only to that Competition of Cheapneſs, and be otherwiſe equal, the Ca<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e will ſurely go for the <hi>Papiſt.</hi> For this reaſon our <hi>Clothiers</hi> are on their G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard not to ſuffer their Trade to fall into <hi>Papiſts</hi> Hands, knowing that muſt be their own ruine. For that <hi>N<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>on</hi> or <hi>People,</hi> be their Principles never ſo bad and hu<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> to the Publick, ſh<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> have that Trade wherein they can under-do the reſt. <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſe to note, Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> making Frizes is not meant or intended as a part of the <hi>Cl<gap reason="illegible" resp="#UOM" extent="6 letters">
+                        <desc>••••••</desc>
+                     </gap> Trade:</hi> For that can, and is managed in poor <hi>Coun<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Villages,</hi> where our <hi>
+                     <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>thiers</hi> do not care to dwell; but altogether Inhabit in good Cities and Corpo<g ref="char:EOLhyphen"/>rate Towns, where they find their Safety, Profit, and Plenty. And by this means our Cities and Towns are now more fully Inhabited by <hi>Proteſtants</hi> than ever, and thinner of <hi>Papiſts.</hi> However there is a Remarkable Difference be<g ref="char:EOLhyphen"/>tween the Cities and Towns where the Woollen Manufactures are, and where they are not. Where they are, there's a very great Trade, and that in the Hands of <hi>Proteſtant</hi> Merchants and Factors; but where the Manufactures are inconſiderable, the other Trade; as the Exportation of Hides, Tallow, Butter, and the like groſs Commodities, is almoſt, if not altogether as much managed by <hi>Papiſts</hi> as <hi>Proteſtants.</hi> For that the <hi>Iriſh</hi> Merchants and Factors abroad, do all they can to maintain a Correſpondence and Trade with their Friends and Relations that ſtaid in <hi>Ireland.</hi>
+               </p>
+               <p>I have conſidered how it ſhould ſo happen, that Manufactures ſhould ſo much more Thrive, in <hi>Proteſtant</hi> than in <hi>Papiſt</hi> Countries, and that even where <hi>Popery</hi> was Regnant, and Proteſtantiſm ſcarce permitted; the Proteſtants pre<g ref="char:EOLhyphen"/>vailed (where not violently hindred) to get the Trade, and conſequently Riches and Reputation to themſelves.</p>
+               <p>One Cauſe I conceive to be, that the <hi>Reformed</hi> not being at all delighted with the <hi>Gauderies</hi> and <hi>pompous Proceſſions</hi> of the <hi>Romiſh Church,</hi> remain at their Trades and Occupations, when the <hi>Papiſts</hi> of the ſame Trade are ſpending their time, either in attending or aſſiſting thoſe Glorious Shews; the Idleneſs and Pri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e whereof, influenc'd by the many Holidays, makes 'em very unwillingly return to th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r Labours; which after that, ſeems more poor and miſerable.</p>
+               <p n="2">2. That <hi>Proteſtants</hi> are generally more honeſt and punctual in their Dealings, and no wonder; for if the Mind of a <hi>Papiſt</hi> be diſturb'd by his Fraud or In<g ref="char:EOLhyphen"/>juſtice, Perjury or Oppreſſion, it can by the Power or Skill of a Prieſt, be much, or quite <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ified, appeaſed and made gentle. Whereas the poor Peccant <hi>Pro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſtant</hi> ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no ſuch Salve for his Sore; he muſt make Satisfaction and truly repeat. And tho <hi>Proteſtants,</hi> I fear, do not generally perform this part of their Reli<g ref="char:EOLhyphen"/>gion, as they are bound, when they have offended, yet are they not ſo ready as the other to offend. Wherefore even <hi>Papiſts</hi> themſelves may and do deal more ſafely with <hi>Proteſtants,</hi> than with one another; and this muſt neceſſarily
+<pb n="7" facs="tcp:40653:4"/>have many great Advantages attending it, according to that Saying, <hi>Honeſty i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the beſt Policy.</hi>
+               </p>
+               <p n="3">3. The <hi>Papiſts,</hi> eſpecially the meaner and more Ignorant ſort, are extremely impoveriſht by their Begging, but greedy Clergy, by which means they are made inſenſible weak, and unable to manage their Trade to that advantage that <hi>Proteſtants</hi> do, who are not ſo couſned of what they have. The <hi>Papiſt</hi> finding his Condition low, his Hopes and Diligence leſſen, whilſt the <hi>Proteſtant</hi> finds his Labour proſper in his Hands, and is therefore enabled and encouraged to continue and encreaſe his Induſtry.</p>
+               <p>I remember about the latter end of K. <hi>Charles</hi> H. Reign, when <hi>Popery</hi> began to venture a little out of Doors, that the Priſes of <hi>Wool</hi> and <hi>Woollen Goods</hi> would riſe and fall, juſt as the Wind of Hopes and Fear blow. When the <hi>Proteſtant</hi> Cauſe was ſeemingly in Favour, then all hands at Work, and every thing ſold off bravely; but when the <hi>Roman Party</hi> were a little uppiſh, then all things fell to the Ground; tacitly implying, <hi>That Manufactures and Commerce have</hi> Popery <hi>for their Implacable Enemy,</hi>
+               </p>
+               <p>Men that can get their Livings honeſtly by their own Induſtry, have a Value and good Opinion of themſelves, and can't endure the Thoughts that any one may Rightfully, and yet Arbitrarily, deprive or obſtruct them of the Means thereof, which yet they know <hi>Popery</hi> muſt and will do. For if Men be permit<g ref="char:EOLhyphen"/>ted to make uſe of their own Senſe and Reaſon, (which nothing but truth will admit of) and their Property in their Lives, Liberties and Goods be preſerved to them, how can <hi>Popery</hi> (conſcious of their own Fraud) ever ſubſiſt? There<g ref="char:EOLhyphen"/>fore as the <hi>Eagle</hi> (<hi>Rome</hi>'s beloved Bird) firſt plucks out the Eyes of her Prey, ſo <hi>Popery</hi> muſt Reaſon and Senſe, the Eyes of our Rational Souls: After that there is no hope to eſcape.</p>
+               <p>Wherefore I conclude that ſeeing our Manufactures, eſpecially our great and chiefeſt the <hi>Woollen,</hi> can't thrive, nay ſcarce ſubſiſt without the benign Influence and Protection of a <hi>Proteſtant Government;</hi> that certainly thoſe Artificers and Traders, from Principles of Self-Intereſt, Love, and a full perſwaſion of its be<g ref="char:EOLhyphen"/>ing the beſt <hi>Government,</hi> and beſt <hi>Religion</hi> in the World, will immoveably adhere thereto, and propagate the ſame, by all poſſible means, to ſtrengthen and en<g ref="char:EOLhyphen"/>large themſelves. And that therefore the <hi>Proteſtants</hi> of <hi>Ireland,</hi> who gave the <hi>Iriſh Papiſts</hi> (the worſt and moſt inveterate of all others) for their Enemies, muſt with one Heart and one Mind love the preſent Government of <hi>England,</hi> that reſcu'd 'em from their inſupportable Cruelties; and gave 'em opportunity to ſerve God in his own way, and honeſtly to live by their Labours and In<g ref="char:EOLhyphen"/>duſtry. And therefore the encouraging, encreaſing, and confirming of this ſort of People, is a very great ſecurity to the <hi>Profeſſion of the Proteſtant Religion.</hi> For Men naturally love to chooſe the Right, when they may ſafely do it; but much more when invited by other Advantages alſo.</p>
+               <p>It may be objected: <hi>Since</hi> Proteſtaniſm <hi>is ſo great a Patroneſs of Manufactures, how comes</hi> China <hi>ſo famous for 'em? There is no</hi> Proteſtant Religion <hi>there.</hi> I anſwer,
+<pb n="8" facs="tcp:40653:5"/>nor <hi>Papiſt Religion,</hi> nor any thing like it, for Fraud, Violence or Oppreſſion: Where there is no <hi>Popery,</hi> I believe Manufactures may flouriſh, but never where it is.</p>
+            </div>
+            <div n="2" type="proposition">
+               <head>Prop. II. That the Wealth of <hi>England</hi> is much augmented by the Woollen Manufactures, and Navigation of <hi>Ireland.</hi>
+               </head>
+               <p>A Stranger arriving in <hi>England,</hi> and ſhould hear many Perſons there, of ſeem<g ref="char:EOLhyphen"/>ing good Parts and Repute, rail againſt <hi>Ireland;</hi> ſometimes wiſhing it under Water, ſometimes Waſted, Deſerted, and what not, would think that the Peo<g ref="char:EOLhyphen"/>ple of this Iſland were ſome deadly Enemies, who infeſted their Coaſts with Piracy and Depredation, were the Subjects of ſome haughty injurious Prince, who kept no Faith with 'em, but did them all the Miſchief in the World; he would not dream that we are one and the ſame People, Parents and Children, Brothers and Siſters, ſometimes dwelling here, ſometimes there; that we are of one Religion, that we are a Province of their Empire, and have neither Laws nor Governours but of their ſending us: What is it then that we have done to provoke ſuch Indignation? Why we made Serges, Bays, and other <hi>Woollen Goods,</hi> and ſent 'em to <hi>Holland, Flanders, Spain, Portugal, &amp;c.</hi> would he not wonder what Crime was this; and ask what Law or Friendſhip we violated? None, ſay we, and hope never ſhall; but being inſtructed there to get our Li<g ref="char:EOLhyphen"/>ving honeſtly, we have endeavoured to do ſo here.</p>
+               <p>But our Fault is, that by medling with the <hi>Woollen Manufactures,</hi> we have lower'd the Price àbroad. I may well deny the Conſequence, but for this time I will grant it. Well then; we have lower'd the Price abroad, and ſo <hi>England</hi> has had the leſs profit; yet our Trade will be found to be a great addition to the Wealth of <hi>England</hi> in general: For whatever ſome <hi>Weſt-Country Gentlemen</hi> take <hi>Ireland</hi> to be, and whatever it was formerly, when in the Hands of the Native <hi>Iriſh</hi> and <hi>Papiſts,</hi> it is now an <hi>Engliſh Proteſtant Country;</hi> and to be reputed no more ſeparate from the Care of the Monarch of <hi>Great-Brittain,</hi> than <hi>Yorkſhire, Cheſhire,</hi> or any other part of <hi>England.</hi> Is it becauſe there is a little Channel that runs between <hi>Wales</hi> and <hi>Wexford,</hi> that when any <hi>Engliſh</hi> dare croſs that Stream, they muſt be diveſted of <hi>Engliſh</hi> Priviledge, as if they had tranſgreſt ſome Law of Nature? Or as if indeed,</p>
+               <q>
+                  <l>Nequicquam Deus abſcidit</l>
+                  <l>Prudens Oceano diſſociabili</l>
+                  <l>Terras:— <bibl>Horat.</bibl>
+                  </l>
+               </q>
+               <q>
+                  <l>God did divide by Seas in vain,</l>
+                  <l>The Iſlands from the Main,</l>
+                  <l>If impious Ships Unite 'em all again.</l>
+               </q>
+               <p>Then 'tis the Fields on the Eaſt ſide of that Water are bleſt, and thoſe on the Weſt are curſt; but neither God, nor the King, will ſay ſo: Or is't that one Nation can't live in two Iſlands, as well as two very different Nations dwell in one Iſland? But to return to our promiſed Wealth, from which the <hi>Devon<g ref="char:EOLhyphen"/>ſhire Gentlemen</hi> are kept too long.</p>
+               <pb n="9" facs="tcp:40653:5"/>
+               <p>
+                  <hi>Ireland,</hi> if permitted to Ship off her Manufactures, the quantity from both Kingdoms, will in all probability be very much greater than from one. And altho hereby at firſt it may ſomething abate the price of each Piece, yet the proceeds of all will be exceedingly more; for the ſcarcer and dearer any thing is, the leſs is made uſe of; and on the contrary, the cheaper and more plenty any thing is, the Conſumption will be alſo ſo much the more. This will alſo diſcourage the Forreign Manufactures; for when they ſee how very cheap and plenty they are brought 'em from <hi>England</hi> and <hi>Ireland,</hi> they may incline to ſomething elſe, to which they may have more Conveniencies and Encourage<g ref="char:EOLhyphen"/>ment. We will ſuppoſe then that <hi>Exeter</hi> ſent 1000 pieces of Serges to <hi>Holland,</hi> and had got 2000 Guilders by them; had not 1000 pieces, arrived at the ſame time from <hi>Cork,</hi> and reduced their profit to 1500 Guilders, and thoſe from <hi>Cork</hi> making the ſame Gain, put the Account together, and there is 3000 Guilders profit by both, inſtead of 2000 by one. But ſays the Man of Land and Trade in <hi>Devon,</hi> What is your 1500 Guilders to us? I ſay, as much as if <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll</hi> or <hi>Yar<g ref="char:EOLhyphen"/>mouth</hi> got them. For 'tis very little or no return of Goods we have from <hi>Holland, Flanders,</hi> &amp;c. but our Money is either brought in Specie, or remitted by Bills (which at laſt comes to terminate in the ſame thing) to <hi>London.</hi> When 'tis there, both Principle (which is at leaſt 2500 <abbr>
+                     <hi>l</hi>
+                  </abbr> more) as well as the 1500 Guilders Profit) which is about 150 <abbr>
+                     <hi>l</hi>
+                  </abbr>) are applied to the Payment of <hi>Iriſh</hi> Rents, due to the Nobility, Gentry, and Rich Men of <hi>England</hi> and others; to Pay the Expence of our Sons at Study at <hi>Oxford, Cambridge,</hi> or the <hi>Inns of Court;</hi> to buy vaſt Quantities of Hops, Tobacco, Sugar, Dye-Stuffs, and a thouſand other things, ſo far as our Money will go. When all this is done, what Money our Trade produces more than our Rents payable there, the Ge<g ref="char:EOLhyphen"/>nerous Education of our Children there, and the Goods we bring thence amount to, is our own to go on with our Trades, to do ſo again, and to improve <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Eſtates at home. So that every unprejudic'd Man may ſee that we are a co<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>derable Root of <hi>England</hi>'s Wealth, and add greatly thereto. And <hi>Dev<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> may with as ſound reaſoning prohibit <hi>Yorkſhire</hi> to Ship off any <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rſies, <hi>Colch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> challenge the whole Bay-Trade, and <hi>Norwich</hi> the Stuffs, and <hi>London</hi> pretend to prohibit all Out-Ports to Import or Export any Forreign or Native <hi>Commo<g ref="char:EOLunhyphen"/>dities,</hi> becauſe they leſſen her Trade thereby, and that ſhe <hi>mo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> powerfully</hi> than any City in <hi>England, ſupports</hi> all Exigencies of the State. But how much wiſer is the contrary or this? <hi>Viz.</hi> To encourage all the Members of the ſame Body, to ex<g ref="char:EOLhyphen"/>tend Care and Kindneſs to all, that from all they may receive mutual Aid and Benefit.</p>
+               <p>I pray ſuppoſe all <hi>Ireland</hi> as full of <hi>Engliſh Proteſtant</hi> Inhabitants as <hi>England</hi> is, and as rich; Would not <hi>England</hi> then have double the Power, both in Men and Money of what ſhe now has to ſupport her Wars? Would not her Vent of her own, and her <hi>Plantation Goods</hi> be vaſtly greater than if <hi>Ireland</hi> were Deſert o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Proteſtants,</hi> or which is worſe, be in an Enemies Hands?</p>
+               <pb n="10" facs="tcp:40653:6"/>
+               <p>But ſuppoſe it's objected, <hi>Ireland</hi> is Peopled by the Depopulation of <hi>England,</hi> and gains no more in Trade than ſhe loſes; but this is evidently falſe, <hi>Engliſh</hi> are not ſo fond of their own Country, tho' a good one, but that an <hi>Engliſh</hi> Man will, as well as a <hi>Scot,</hi> who has a bad one, Travel abroad, rather than live in a poor and painful manner at home. If there were no <hi>Ireland,</hi> he would find the way to <hi>New-England, Virginia, Maryland,</hi> or ſome other place; but <hi>Ireland</hi> lies rather fit to ſave them from being carried utterly away, and loſt from <hi>England,</hi> to which he or his encreaſed Progeny may be reſtored on any Emergency.</p>
+               <p>For the Man of <hi>Devon</hi> may be as well forbid to go thence to <hi>York,</hi> and ſay it depopulates <hi>England,</hi> as to prevent his going to <hi>Dublin;</hi> whence he may be as ſoon back, or if be think ſit to ſtay here, he is ſtill an <hi>Engliſh-man,</hi> and ready for the Defence and Service of his Country, whether it be attempted on this or that ſide. And 'tis very Unnatural to hinder Men to Live, where they can live beſt, eſpecially if under the ſame Government and Polity.</p>
+               <p>As to the Gain <hi>Ireland</hi> makes by a Trade ſo prejudicial to <hi>England.</hi> This is indeed a common Topick, whereon many declaim againſt <hi>Ireland,</hi> but have ve<g ref="char:EOLhyphen"/>ry little cauſe for it; as appears by what has been ſaid already. Does no Country make <hi>Woollen Goods</hi> but <hi>England</hi> and <hi>Ireland?</hi> Yes, they do; namely, <hi>France, Scotland, Holland, Flanders,</hi> and many more. Well, then all theſe may as well rail againſt <hi>Ireland</hi> for leſſening their Trade alſo. But the truth of it is, that <hi>Ireland</hi> coming into Conjunction with <hi>England</hi> in this Trade, they mutually ſtrengthen each other; which may indeed be a great disheartning to <hi>Forreign Nations,</hi> but is no leſs an Encouragement and Support to <hi>England;</hi> for that ſhe not only gets her own, but our Money alſo, and keeps her Sons about her, tho' not in the ſame Houſe, yet planted within Call; whoſe Voice they muſt and will readily Obey. Now that we have ſeen the good Effects that <hi>England</hi> will ſurely have by cheriſhing her Children planted in <hi>Ireland;</hi> let us take a View of the Damage that would befal her, ſhould ſhe not ſuffer 'em to dwell there; or which is all one, not let 'em uſe that Induſtry there, which is neceſſary for their <hi>convenient Support,</hi> and this we will chiefly ſuppoſe to be done by Prohibiting our Manufactures.</p>
+               <p>Aſſoon as this fatal ſtroke is ſtruck (which God avert) as deadly to the <hi>Proteſtant Intereſt in both Kingdoms;</hi> the <hi>Poor Widdow,</hi> and her <hi>Helpleſs Children,</hi> ſit down and lament for want of Bread. The Cities then have too many Houſes for their Inhabitants, and are breaking up Houſe-keeping, and going not for <hi>England,</hi> except that in <hi>America,</hi> but to <hi>Penſilvania, Carolina, Holland, Ger<g ref="char:EOLhyphen"/>many,</hi> any where; <hi>Scotland</hi> it ſelf, rather than be ſo ſhamefully and hopeleſly brought back to their Angry Maſters in <hi>Devon</hi> and <hi>Summerſet.</hi>
+               </p>
+               <p>Well then; this done, here is to be an Army at <hi>England</hi>'s Charge, or to live on Rapine, who will Intermarry with, and degenerate into <hi>Iriſh;</hi> Rebel, and perhaps not ſo eaſily as heretofore, if at all reduced: But ſuppoſe it better, How ſhall the King's Revenue ariſe for Payment of the <hi>Civil and Military Liſts?</hi> For ſupport of the <hi>Magazines,</hi> and remittance of a <hi>conſiderable Over-plus</hi> into
+<pb n="11" facs="tcp:40653:6"/>the Exchequer of <hi>England?</hi> For tho' <hi>before the Woollen Manufactures took Root</hi> here, <hi>Ireland</hi> was a great Charge to <hi>England;</hi> yet ſhe was paying her Old Debts apace, when ſhe found a way to <hi>Employ</hi> her <hi>People.</hi> How little Tillage and Cattle will ſerve this <hi>Country,</hi> when they who are the chief Buyers and Conſumers are gone? How ſmall a quantity of <hi>Engliſh</hi> and <hi>Plantation Goods</hi> ſhall we import, when we have no way to get Money to pay for them? The Revenue of <hi>Ireland</hi> will very ſoon, if our <hi>Woollen Manufactures</hi> be encouraged, amount to more than 500000 <hi>
+                     <abbr>l</abbr> per Annum.</hi> Let not this ſeem ſtrange, for ac<g ref="char:EOLhyphen"/>cording to the Advances it made after the Act of Settlement and Explanation in <hi>Ireland,</hi> altho' tempered with extraordinary Lenity to the <hi>Iriſh Papiſts;</hi> it riſe as I take it, from 160000, to 340000 <abbr>
+                     <hi>l</hi>
+                  </abbr> without any new Grants, or Impoſiti<g ref="char:EOLhyphen"/>ons; nay contrarily, many great Sums reſerved on <hi>Papiſts</hi> Eſtates, were whol<g ref="char:EOLhyphen"/>ly and for ever acquitted and diſcharged. This great Improvement of the Revenue, owed its chief Cauſe to the <hi>Woollen Manufactures,</hi> which continually furniſh'd the poor Spinner and Comber with daily Money to Smoak and Drink: So that in all the Towns, where the ſaid Manufactures were, the In<g ref="char:EOLhyphen"/>land-Exciſe (as we term the <hi>Impoſition on Ale, Beer and <g ref="char:V">Ʋ</g>ſquebaugh</hi>) advanced incredibly.</p>
+               <p>Will <hi>Taunton, Exeter,</hi> and <hi>Teverton</hi> pay all this Damage? No, they would indeed rather ſee <hi>Ireland</hi> Drowned, Annihilated. Therefore we are lead to hope, that neither the King, nor his Great Council in Parliament, will think it adviſeable to treat the <hi>Proteſtant Engliſh Subjects</hi> thus ſeverely (ſo immediate<g ref="char:EOLhyphen"/>ly after having made a Law to incourage their coming hither; as to deprive 'em of the moſt proper Means of getting a Livelihood decent, and ſit for <hi>En<g ref="char:EOLhyphen"/>gliſh Proteſtants,</hi> To pleaſe ſome miſtaken <hi>Gentiemen</hi> and <hi>Clothiers</hi> in the <hi>West of England,</hi> and the <hi>Factors</hi> at <hi>Blackwell-Hall.</hi>
+               </p>
+               <p>The <hi>Poor French Hugonots,</hi> that are for the Cauſe of a <hi>Good Con<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ce</hi> Ba<g ref="char:EOLhyphen"/>niſht their Native Soil, and Invited here by the Clemency of his <hi>Most Gra<g ref="char:EOLhyphen"/>cious Maiesty,</hi> and Laws newly made in their favour, will think themſelves mi<g ref="char:EOLhyphen"/>ſerable indeed, when inſtead of following their reſpective Trade, they find themſelves condemned to go to the Mountains to feed Cattle, and to Plow; neither of which they at all underſtand. Surely care muſt be taken to aſſign 'em Lands in Shares, as is done in <hi>Fez</hi> and <hi>Morocco:</hi> For when the Trade is gone, who will buy their Corn and Cattle?</p>
+               <p>But to all this it is anſwer'd: You ſhall have the Linnen Trade. We thank you for your kind intention: If we were ſit for it, as we in all the <hi>South</hi> parts are not, where are the <hi>Forreign Markets?</hi> Can <hi>England</hi> prohibit <hi>Holland, Ger<g ref="char:EOLhyphen"/>man,</hi> &amp;c. to forbear that Trade in favour to <hi>Ireland,</hi> at leaſt not to under do us?</p>
+               <p>Now, if it be more proſit for <hi>England</hi> to receive vaſt Revenues out of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> both Publick and Private; to receive very great Benefits, by furniſhing her with <hi>Native</hi> and <hi>Pla<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>at on Goods;</hi> to have her deſerting People ſettle and Plant ſo near her, that they can't properly be ſaid to have left her: to have a
+<pb n="12" facs="tcp:40653:7"/>Country that was full of moſt inveterate Enemies, Enemies to their <hi>Religion, Nation</hi> and <hi>Government,</hi> changed into the moſt Faithful Friends and Relations that they can hope for, and to be at no more expence of Blood or Trea<g ref="char:EOLhyphen"/>ſure, but now to reap the full benefit of all their former Coſts; be better than to have <hi>Ireland</hi> an uſeleſs Limb, chargeable, and hazarding the Health of the whole <hi>Engliſh</hi> Frame, then certainly 'tis <hi>England</hi>'s great Profit and Ad<g ref="char:EOLhyphen"/>vantage to encourage this Enlarged part of <hi>England,</hi> (for 'tis no other now) with all Natural Affection, Tenderneſs and Care; and ſo I can't believe but <hi>England</hi> will do, being thereto obliged by the Laws of God, which take great care of Mankind, by Natural wiſdom and Polity, and true Love even of themſelves.</p>
+            </div>
+            <div n="3" type="proposition">
+               <head>Prop. III. That the Woollen Manufactures of <hi>Ireland,</hi> are a conſiderable Security to the Peace and good Government of <hi>England.</hi>
+               </head>
+               <p>Since <hi>Ireland</hi> after her late almoſt Mortal Diſtemper (for whoſe Body the Devil and all his Angels fought with <hi>Michael</hi> and his) is, bleſſed be God, and praiſed be his <hi>Glorious Instrument</hi> King <hi>William,</hi> not only reſtored to her former Health and Vigour, but her very Youth re-commenc'd, and all the la<g ref="char:EOLhyphen"/>tent Seeds of Diſorder, are irradicated and removed. She may truly boaſt that her <hi>Protestant Inhabitants</hi> are as ſound a Body of People to their Prince, Country, Religion and Laws, as are to be found in the Univerſe. A <hi>Jacobite Protestant</hi> is now one of thoſe Venomous Animals, that will not endure <hi>Iriſh</hi> Earth. Wolves indeed we have and Foxes, but theſe are now rather Game and Diverſion, than noxious or hurtful. If an <hi>Iriſh Tory</hi> or <hi>Rapparce</hi> prey now but on an <hi>Engliſh Lamb,</hi> we have our <hi>Hounds</hi> ready for him, and a full-mouth'd Outlawry gives him Chaſe, and his Head becomes of more value than a Wolfe's; ſo that they are forc'd to wear Sheep-skins themſelves, for fear of diſturbing our Flocks.</p>
+               <p>Seeing then that <hi>Ireland</hi> is ſo perfectly at Unity in her ſelf, that we have not the leaſt Faction or Diviſion among us, that our Sun and our Shield, are the <hi>Protestant Religion</hi> and King <hi>William;</hi> we are a very great addition to the Loyal Party in <hi>England,</hi> with whom and for whom we muſt live and die. Would to God <hi>England</hi> were ſo free from <hi>Noxious Humours;</hi> but perhaps her Cure was <hi>too ſoon</hi> and <hi>too eaſie;</hi> and therefore only Time and her Healthy <hi>Con<g ref="char:EOLhyphen"/>ſtitution</hi> muſt wear 'em off. <hi>Ireland</hi> now is, without doubt, the Envy of the <hi>Ja<g ref="char:EOLhyphen"/>cobites;</hi> who out of pure Malice, would be glad that the <hi>Iriſh Papiſts</hi> were more conſiderable than they are, as being on their ſide; and therefore we do not wonder if under pretence of <hi>England</hi>'s Intereſt they deſire to have the <hi>Proteſtants</hi> recall'd, or baniſht hence.</p>
+               <p>This Country would then be a good Meeting place for the <hi>French</hi> and <hi>Iriſh</hi> to renew their interrupted Projects and Councels, and Correſponden<g ref="char:EOLhyphen"/>cies with the <hi>Highlanders;</hi> and they well know that <hi>Engliſh Proteſtants</hi> will not
+<pb n="13" facs="tcp:40653:7"/>live, if they can help it without <hi>Imployment,</hi> whereby to live decently. They can't live with a <hi>Cow</hi> and <hi>Potato-Garden</hi> on a Mountain ſide, in a Cabin built in a Days time, which the <hi>Iriſh</hi> naturally do; and there is no other Imploy<g ref="char:EOLhyphen"/>ment for ſo great Numbers of <hi>Proteſtants,</hi> as God be praiſed are now in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> but that of <hi>Woollen Manufactures:</hi> Therefore ſays the <hi>Jacobite</hi> in <hi>England, Cut away that Root, and they'll all wither.</hi>
+               </p>
+               <p>No, no, inſtead of taking away the Honeſt Means to get our Bread here, our Gracious King <hi>William</hi> will keep a good <hi>Proteſtant</hi> Army here, where they'll be welcome, and this Country will maintain 'em without any Charge to <hi>England</hi> or prejudice to it ſelf, but will be the better, in having ſo many the more <hi>Engliſh-men</hi> (eſpecially when the intended <hi>Baracks</hi> are made) amongſt us.</p>
+               <p>But, ſuppoſe the worſt, that this Project to put down our <hi>Weoken Manu<g ref="char:EOLhyphen"/>factures,</hi> ſhould prevail, and conſequently force the <hi>Engliſh Proteſtants</hi> to with<g ref="char:EOLhyphen"/>draw from this Iſland: The beſt then that could be hoped for, would be that the <hi>Scots</hi> would ſucceed in our rooms. Now pray what better ſecurity can <hi>England</hi> have that thoſe Induſtrious and Hardy People won't make Serges and Bays, and through <hi>Scotland,</hi> ſend 'em where they pleaſe? Ay, but the <hi>Scots</hi> are a meek harmleſs People, that will not purſue their Intereſt, their Com<g ref="char:EOLhyphen"/>mon and National Advantages without leave from Mr. <hi>C—y</hi> and ſome other of the <hi>Weſt of England;</hi> therefore there is no danger of them. For though Mr. <hi>C—y</hi> can't Bridle nor Saddle, much leſs Ride 'em in <hi>Scotland,</hi> yet if he catch 'em on <hi>Iriſh</hi> Ground he will tie 'em to Rack Staves, and take away their Oats and Meal.</p>
+               <p>However I hope <hi>England</hi> will not try his Experiment, leaſt his Notions prove too Metaphyſical to be of any Uſe, and too ſine for Practice.</p>
+               <p>Then let us conclude that <hi>England</hi> had e'en as good foſter and cheriſh her own Legitimate Iſſue, as to adopt thoſe of other People, who may perhaps in time forget that ſingle piece of Bounty, and go on to do themſelves all the good that occaſion may preſent them with.</p>
+               <p>Or ſhall we ſuppoſe, that in regard <hi>Europe</hi> is ſo Canton'd out into petit States and Principalities, that <hi>England</hi> (ſtrictly ſo called) is more than a Match for any one of them, and therefore ſcorns to be enlarged by any new acceſſion of Strength, which the Kingdom of <hi>Ireland</hi> would (if encou<g ref="char:EOLhyphen"/>rag'd in <hi>Woollen Manufactures</hi>) ſurely be to her? But Safety and Victory are never to be hazarded where they can be got without it.</p>
+               <p>It's much more than probable to me, that had <hi>Ireland</hi> in the Reign of King <hi>Charles</hi> I. Been ſo happy as to have been ſo fully Inhabited by <hi>Proteſtants,</hi> as bleſſed be God, ſhe is now; there had been no Maſſacre of the <hi>Brittiſh Nati<g ref="char:EOLhyphen"/>ons</hi> here in 1641; nor had that Diſmal and Bloody Rebellion enſued; nor had the Earl of <hi>Strafford</hi> thought it good Policy (as he did ſome time before that) to hold the <hi>Engliſh</hi> (who had the Artificial) and the <hi>Iriſh</hi> (who by their Numbers at leaſt, had the Natural Strength of the Kingdom) in a Ballance;
+<pb n="14" facs="tcp:40653:8"/>which he held in his own Hands, that both the one and the other might de<g ref="char:EOLhyphen"/>pend on his Arbitrement. His vaſt Ambition of Power, was not leſs than his very great Parts: To humour which, as he was reſolved to ſerve his Maſter without reſerve, ſo he expected by that Machine to compel <hi>Ireland</hi> to ſerve him.</p>
+               <p>But Story too ſadly relates the Unhappy Cataſtrophy of this Policy: For his Arbitrary Proceedings, produced a Legal Act of Attainder againſt his Lordſhip's Head.</p>
+               <p>And the <hi>Iriſh</hi> with their Natural, ſurprized the Artificial Strength of the <hi>Engliſh</hi> in moſt places of the Kingdom; uſing them with ineffable Cruelty, which mightily encreaſed the Confuſion and Flame in <hi>England,</hi> that ended not till ſome Years after.</p>
+               <p>Neither do I believe that the late King <hi>James</hi> had ever form'd the Deſign to Reign Deſpotically in <hi>England,</hi> had <hi>Ireland</hi> been ſo replete with <hi>Proteſtants,</hi> as (God be praiſed over and over again) ſhe now is, <hi>Tyrconnel</hi> then would not have durſt taken the Sword of <hi>Ireland</hi> into his <hi>Romiſh</hi> Paws, in Contempt of our Manifold Laws againſt it; he would not have dared to Disband an <hi>Engliſh</hi> Army, to Enliſt <hi>Iriſh</hi> Enemies in their room, and to put the Civil and Mili<g ref="char:EOLhyphen"/>tary Power into thoſe Hands which the Laws of the Realm had Diſarmed of both; nor to have applied thoſe Revenues to the Ruin of the <hi>Proteſtants.</hi> who granted and deſigned them for their own Defence.</p>
+               <p>The Premiſes conſidered, the Safety of <hi>England</hi> and <hi>Ireland,</hi> under God, are the great Numbers of <hi>Proteſtants</hi> in both Kingdoms. But as <hi>England</hi> can't have 'em without ways to Maintain and Support them, ſo neither <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nd; and there is no other way (Humanly ſpeaking) than by the <hi>Wooller Manufa<g ref="char:EOLhyphen"/>ctures.</hi> And God has in his Providence ſo order'd it, that there is room e<g ref="char:EOLhyphen"/>nough in the World to vent the Productions of both Kingdoms.</p>
+               <p>Methinks I hear an Objection; That we have heard of great Bridges built upon <hi>Wooll-ſacks,</hi> but never of a Church built upon <hi>Woollen-Cloth,</hi> a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> this Man labours to perſwade us, that the Reformed Churches of <hi>England</hi> and <hi>I<gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>nd</hi> are.</p>
+               <p>Bantering will not do <hi>now.</hi> We know that our Church is built upon the Rock <hi>Chriſt Jeſus,</hi> Eternal Truth, which nothing in Earth, <hi>Rome,</hi> or Hell ſhall ever prevail againſt. But ſeeing ſhe is Militant here on Earth, tho her Foun<g ref="char:EOLhyphen"/>dation be impregnable, ſhe muſt take care of her Out-Works, and keep good Garriſons and Armies; whoſe Common Soldiers are beſt made up of <hi>
+                     <gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſtant</hi> Marriners and Manufactures (which Profeſſions our Saviour's own Diſci<g ref="char:EOLhyphen"/>ples follow'd) who tho often too irregular in their own private Actions, are nevertheleſs very Faithful to the General and Common Cauſe. Of theſe our Armies can never be too many, for they'll Fight and Work to Defend and Sup<g ref="char:EOLhyphen"/>port that which Defends and Supports them; and all the Pay they deſire is, to have that Liberty which even Nature (not vitiated) beſtows on Mankind. The Liberty, I ſay, to get their own Living by their Labour and Induſtry, and Pro<g ref="char:EOLhyphen"/>tection of their Goods gotten thereby. Whilſt they are thus rewarded, ſcarce any will ever Deſert, much leſs Mutiny or Revolt.</p>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="15" facs="tcp:40653:8"/>
+            <head>POSTSCRIPT.</head>
+            <p>IF the Cheapneſs of a Commodity of <g ref="char:V">Ʋ</g>ſe doth increaſe its Vent, (than which, nothing is more apparently true) it muſt undoubtedly be the Intereſt of <hi>England</hi> to render her <hi>Woollen Manufactures</hi> Cheap at Forreign Markets: For that there is ſcarce any State or Kingdom in <hi>Europe,</hi> that is not her Competiter therein; who being <g ref="char:V">Ʋ</g>nder-ſold, muſt of conſequence leſſen, and be diſcourag'd the making the ſame Ma<g ref="char:EOLhyphen"/>nufactures; would it not then be more fit to allow <hi>Ireland,</hi> (a Province abſolutely depen<g ref="char:EOLhyphen"/>dent on <hi>England</hi>) a Share in this Trade, than to give it to Forreigners, who will inlarge their Manufactures of <hi>Wool,</hi> when the Exportation of them from <hi>England</hi> is leſſen'd, by raiſing the price there, which ſeems to be the chief Deſign of the intended prohibition on <hi>Ireland,</hi> that otherwiſe, together with <hi>England</hi> might (by making them Cheaper, and in greater quantities) become the ſole Exporters of <hi>Woollen Manufactures?</hi>
+            </p>
+            <p>Beſides, there are few, if any Examples wherein Prohibitions and Monopolies in Trade, have been advantagious to the publick; they moſtly tend to the benefiting of particulars, and hurt the Generality; and I apprehend (if it were throughly inquir'd into) that the Prohibiting the Importing of <hi>Iriſh</hi> Lean-Cattle into <hi>England,</hi> would be found an Inſtance of it. For that ever ſince, the people of <hi>Ireland</hi> have fallen into the Trade of Fatting their Cattle themſelves; and have Exported their Beef, <hi>&amp;c.</hi> in large quanti<g ref="char:EOLhyphen"/>ties to the <hi>Plantations, Holland, Flanders, France, Spain</hi> and <hi>Italy;</hi> and <hi>Engliſh</hi> Shipping frequently Victual with <hi>Iriſh</hi> Beef; And thus <hi>England</hi> hath loſt a great part of her Exportations of this kind; which conſtantly keeping down the price at home, hath much prejudic'd the Feeding Lands, and I doubt, hath not much advantag'd the Breeding Lands of <hi>England,</hi> a far greater number of Lean Cattle having been brought in from <hi>Scotland</hi> ſince, than were before that Prohibitory Law was made.</p>
+            <p>And 'tis more then probable, that this pretended Miſchief of the Increaſe of the <hi>Woollen Manufactury</hi> of <hi>Ireland,</hi> doth ariſe from this Reſtraint put upon the <hi>Iriſh</hi> from Exporting their Black-Cattle into <hi>England,</hi> becauſe they were neceſſitated by it, to run upon Breeding a greater number of Sheep; which furniſhing them with vaſt ſtore of <hi>Wooll,</hi> lead them moſt Naturally to the Manufacturing of it; and ſhould the people of <hi>Ireland</hi> be denied the Priviledge that both Nature and Neceſſity ſeems to Intitle them to, of Exporting the Superfluities of their Manufactures: It will be very happy, if ſuch a Reſtraint be not attended with worſe Conſequences to the Lands and Trade of <hi>England,</hi> than thoſe that Prohibiting of Iriſh Cattle may have occaſion'd.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
